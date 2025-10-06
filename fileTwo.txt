@@ -1,1 +1,1 @@
-Remote changed file two text
+Amend demo 2
