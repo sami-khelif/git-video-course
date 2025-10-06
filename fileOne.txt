@@ -1,1 +1,2 @@
 Ammending commit demo 1
+thi is test to git diff
