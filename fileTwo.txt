@@ -1,1 +1,1 @@
-Practice git  pull and git fetch
+Remote changed file two text
